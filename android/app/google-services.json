@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "330234410137",
+    "firebase_url": "https://sosvolaille-default-rtdb.firebaseio.com",
+    "project_id": "sosvolaille",
+    "storage_bucket": "sosvolaille.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330234410137:android:d708ca3a3afde6410fb408",
+        "android_client_info": {
+          "package_name": "com.example.sos_volaille"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330234410137-hkh8lq0vvke5st649h0stde84p5erk6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDctZI7f9G6tQgwNco5ozKmfmLnRLINw7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330234410137-hkh8lq0vvke5st649h0stde84p5erk6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
